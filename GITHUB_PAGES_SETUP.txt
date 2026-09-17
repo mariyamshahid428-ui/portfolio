@@ -1,0 +1,9 @@
+1. Create a PUBLIC GitHub repository named mariyam-portfolio.
+2. Upload all files in this folder to the repository root.
+3. GitHub: Settings > Pages > Build and deployment.
+4. Choose Deploy from a branch, branch main, folder / (root), then Save.
+5. Your site will appear at:
+https://YOUR-GITHUB-USERNAME.github.io/mariyam-portfolio/
+
+The CV is included as Mariyam_Shahid_CV.pdf.
+Replace the remaining placeholder LinkedIn, WhatsApp, email, and project URLs with your actual public links before publishing.
